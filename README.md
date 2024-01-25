@@ -4,9 +4,9 @@ The Music Mood Predictor utilizes a Random Forest algorithm to provide personali
 
 ## Preview
 
-![Image 1](image1.png)
-![Image 2](image2.png)
-![Image 3](image3.png)
+![Image 1](image1.jpg)
+![Image 2](image2.jpg)
+![Image 3](image3.jpg)
 
 
 ## Working of the Project
