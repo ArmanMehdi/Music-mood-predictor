@@ -1,0 +1,6 @@
+pandas
+streamlit-lottie
+requests
+pickle
+streamlit
+
